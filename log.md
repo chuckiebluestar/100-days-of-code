@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: 1/3/3016
-##### (delete me or comment me out)
 
 **Today's Progress**: Worked on portfolio code in Sublime Text. Fixed hero background image (from cover to 100%). Created repo on Github and pushed HTML and CSS files.
 
